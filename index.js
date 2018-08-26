@@ -1,10 +1,4 @@
 // write your code below!
 
-var name = "Kenneth"
-var height = 70
-
-console.log("Name:")
-console.log(name)
-
-console.log("Height:")
-console.log(height+1)
+var name = "Joe"
+var height = "74"
